@@ -1,0 +1,3 @@
+name: pulumi-docker-demo
+runtime: python
+description: Local Docker demo using Pulumi
